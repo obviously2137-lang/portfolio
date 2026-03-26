@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import source from "../../Assets/Projects/sourcemart.png";
-import media from "../../Assets/Projects/blog.png";
 import News from "../../Assets/Projects/NewsMania.png";
 import weather from "../../Assets/Projects/weather.png";
 import sales from "../../Assets/Projects/Sales.png";
@@ -20,16 +19,6 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={media}
-              isBlog={false}
-              title="Blog"
-              description="A modern full‑stack blogging platform where users can create posts, like, save, and interact with other users. The project demonstrates authentication, database relationships, REST APIs, and a responsive frontend UI."
-              ghLink="https://github.com/Experio2705/Blog.git"
-              demoLink="https://blog-epla.vercel.app/"
-            />
-          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={source}

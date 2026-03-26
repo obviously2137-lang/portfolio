@@ -12,16 +12,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Aryan Shinde</h3>
+          <h3>Designed and Developed by Atharv Raut</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} AS</h3>
+          <h3>Copyright © {year} AR</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Experio2705"
+                href="https://github.com/obviously2137-lang"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/aryan-shinde-ab861a2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
+                href="https://www.linkedin.com/in/atharv-raut-116808291"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

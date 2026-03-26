@@ -65,7 +65,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Experio2705"
+                  href="hhttps://github.com/obviously2137-lang"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,7 +75,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/aryan-shinde-ab861a2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
+                  href="https://www.linkedin.com/in/atharv-raut-116808291/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

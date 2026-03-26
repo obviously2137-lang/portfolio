@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Aryan Shinde </span>
+            Hi Everyone, I am <span className="purple">Atharv Raut </span>
             from <span className="purple"> Maharashtra, India.</span>
             <br />
             I am currently Studing at Sinhgad Institute Of Technology and Sciences.
             <br />
-            I am currently in 3rd year with a pointer aggregate of 9.32 SGPA.
+            I am currently in 3rd year with a pointer aggregate of 8.45 SGPA.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -36,7 +36,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Aryan</footer>
+          <footer className="blockquote-footer">Atharv</footer>
         </blockquote>
       </Card.Body>
     </Card>
