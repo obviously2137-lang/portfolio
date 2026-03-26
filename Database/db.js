@@ -26,7 +26,7 @@ app.post("/contact", async (req, res) => {
       return res.status(400).json({ success: false, msg: "All fields required" });
     }
 
-    const { error } = await supabase
+    const { data,error } = await supabase
     .from("contacts")
     .insert([formData]);
 
